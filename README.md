@@ -1,5 +1,5 @@
 # machine_learning_basic
-Python codes from Makoto Ito's **"Textbooks of Machine Learning Learning with Python (Korean Edition)".**  
+Python codes for Makoto Ito's **"Textbooks of Machine Learning Learning with Python (Korean Edition)".**  
 It starts from **Chapter5** -Supervised learning: Regression.  
 Since I am studying machine learning with this book, other chapters will be uploaded as soon as I completed them.  
 
